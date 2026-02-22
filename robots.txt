@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://coltonplumbingteam.com/sitemap.xml
